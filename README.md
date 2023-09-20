@@ -5,3 +5,7 @@ It is a critical requirement for business to understand the value derived from a
 ## Dataset Description
 This is a transnational data set which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail. The company mainly sells unique and all-occasion gifts.
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
