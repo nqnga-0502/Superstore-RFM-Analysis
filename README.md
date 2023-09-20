@@ -3,6 +3,7 @@ This is a transnational data set which contains all the transactions that occurr
 <br>
 
 Based on the customer clustering result, marketing teams can conduct specific promotional campaign to different customer's clusters to retain more customers and maximize the store's profit.
+
 <br>
 
 # Customer Segmentation based on RFM Analysis
