@@ -1,6 +1,9 @@
 ![image](https://github.com/nqnga-0502/Superstore-RFM-Analysis/assets/144922369/3d734596-3aad-4dfc-aa65-feea7fbf3a53)# Superstore-RFM-Analysis
 ## Problem Statement
-RFM analysis is a marketing analysis tool used to identify a company's or an organization's best customers by using three quantitative measures which are Recency (R), Frequency (F), Monetary (M). For this project, I use superstore data from Kaggle which can be downloaded here. The completed dashboard for the RFM analysis can be found here
+RFM analysis is a marketing analysis tool used to identify a company's or an organization's best customers by using three quantitative measures 
+which are Recency (R), Frequency (F), Monetary (M).
+
+<br>
 There are three metrics used on RFM analysis:
 
 * **Recency (R)** <br>
