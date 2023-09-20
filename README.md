@@ -1,5 +1,6 @@
 ## Problem Statement
 RFM analysis is a marketing analysis tool used to identify a company's or an organization's best customers by using three quantitative measures  which are Recency (R), Frequency (F), Monetary (M).
+
 <br>
 
 There are three metrics used on RFM analysis:
