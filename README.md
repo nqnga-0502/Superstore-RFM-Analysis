@@ -1,5 +1,6 @@
 # Dataset Description
-This is a transnational data set which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail - SuperStore. The company mainly sells unique and all-occasion gifts.
+
+This is a transnational dataset which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail - SuperStore. The company mainly sells unique and all-occasion gifts.
 <br>
 
 Based on the customer clustering result, marketing teams can conduct specific promotional campaign to different customer's clusters to retain more customers and maximize the store's profit.
@@ -7,6 +8,7 @@ Based on the customer clustering result, marketing teams can conduct specific pr
 
 
 # Customer Segmentation based on RFM Analysis
+
 RFM analysis is a marketing analysis tool used to identify a company's or an organization's best customers by using three quantitative measures  which are Recency (R), Frequency (F), Monetary (M). RFM analysis scores customers on each of the three main factors. Generally, a score from 1 to 5 is given, with 5 being the highest.
 <br>
 
