@@ -5,6 +5,7 @@ This is a transnational dataset which contains all the transactions that occurre
 <br>
 
 Based on the customer clustering result, marketing teams can conduct specific promotional campaign to different customer's clusters to retain more customers and maximize the store's profit.
+
 <br>
 
 ## Customer Segmentation based on RFM Analysis
@@ -21,7 +22,6 @@ There are three metrics used on RFM analysis:
 * **Monetary (M)** <br>
   Total or average of transaction value (e.g. total amount spent on transactions of a customer with a service / product).
 <br>
-
 ### Customer Segmentation
   
 | Segment | RFM Score |
