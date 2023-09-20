@@ -24,7 +24,7 @@ There are three metrics used on RFM analysis:
 <br>
 
 ### Customer Segmentation
-  
+
 | Segment | RFM Score |
 | ----------- | ----------- |
 | Champions | 555, 554, 544, 545, 454, 455, 445 |
