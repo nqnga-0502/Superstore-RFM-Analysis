@@ -30,7 +30,7 @@ There are three metrics used on RFM analysis:
 <br>
 
 # Dataset Description
-This is a transnational data set which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail. The company mainly sells unique and all-occasion gifts.
+This is a transnational data set which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail - SuperStore. The company mainly sells unique and all-occasion gifts.
 <br>
 
 Based on the clustering result, marketing teams can conduct specific promotional campaign to different customer's clusters to retain more customers and maximize the store's profit.
