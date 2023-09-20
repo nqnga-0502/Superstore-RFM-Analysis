@@ -12,7 +12,7 @@ There are three metrics used on RFM analysis:
   Total or average of transaction value (e.g. total amount spent on transactions of a customer with a service / product).
 <br>
 
-# Customer Segmentation
+## Customer Segmentation
   
 | Segment | RFM Score |
 | ----------- | ----------- |
@@ -27,9 +27,9 @@ There are three metrics used on RFM analysis:
 | Cannot Lose Them |	155, 154, 144, 214,215,115, 114, 113 |
 | Hibernating customers | 332, 322, 233, 232, 223, 222, 132, 123, 122, 212, 211 |
 | Lost customers |	111, 112, 121, 131,141,151 |
+<br>
 
-
-## Dataset Description
+# Dataset Description
 This is a transnational data set which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail. The company mainly sells unique and all-occasion gifts.
 
 
