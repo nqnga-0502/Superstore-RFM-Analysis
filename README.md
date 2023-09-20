@@ -39,6 +39,7 @@ There are three metrics used on RFM analysis:
 | Hibernating customers | 332, 322, 233, 232, 223, 222, 132, 123, 122, 212, 211 |
 | Lost customers |	111, 112, 121, 131,141,151 |
 
-
+## Insights and Recommendations
+	[Insights and recommendations]([https://www.example.com](https://docs.google.com/document/d/1_bCXTMnmKCa1yd9tADh2u30XDLzuz69I/edit?usp=drive_link&ouid=101826124314211639349&rtpof=true&sd=true)https://docs.google.com/document/d/1_bCXTMnmKCa1yd9tADh2u30XDLzuz69I/edit?usp=drive_link&ouid=101826124314211639349&rtpof=true&sd=true) extracted from the data
 
 
