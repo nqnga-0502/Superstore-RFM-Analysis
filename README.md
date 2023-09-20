@@ -40,6 +40,6 @@ There are three metrics used on RFM analysis:
 | Lost customers |	111, 112, 121, 131,141,151 |
 
 ## Insights and Recommendations
-	[Insights and recommendations]([https://www.example.com](https://docs.google.com/document/d/1_bCXTMnmKCa1yd9tADh2u30XDLzuz69I/edit?usp=drive_link&ouid=101826124314211639349&rtpof=true&sd=true)https://docs.google.com/document/d/1_bCXTMnmKCa1yd9tADh2u30XDLzuz69I/edit?usp=drive_link&ouid=101826124314211639349&rtpof=true&sd=true) extracted from the data
+	[Insights and recommendations](https://docs.google.com/document/d/1_bCXTMnmKCa1yd9tADh2u30XDLzuz69I/edit?usp=drive_link&ouid=101826124314211639349&rtpof=true&sd=true)https://docs.google.com/document/d/1_bCXTMnmKCa1yd9tADh2u30XDLzuz69I/edit?usp=drive_link&ouid=101826124314211639349&rtpof=true&sd=true) extracted from the data
 
 
