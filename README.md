@@ -19,4 +19,4 @@ This is a transnational data set which contains all the transactions that occurr
 | ----------- | ----------- |
 | Champions | 555, 554, 544, 545, 454, 455, 445 |
 | Loyal | 543, 444, 435, 355, 354, 345, 344, 335 |
-| Paragraph | Text |
+
