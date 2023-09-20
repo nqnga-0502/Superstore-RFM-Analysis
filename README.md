@@ -16,6 +16,7 @@ There are three metrics used on RFM analysis:
 This is a transnational data set which contains all the transactions that occurred between 2014 and 2017 for a UK-based and registered non-store online retail. The company mainly sells unique and all-occasion gifts.
 
 | Segment | RFM Score |
+| ----------- | ----------- |
 | Champions | 555, 554, 544, 545, 454, 455, 445 |
 | Loyal | 543, 444, 435, 355, 354, 345, 344, 335 |
 | Paragraph | Text |
