@@ -1,4 +1,4 @@
-# Problem Statement
+# Customer Segmentation based on RFM Analysis
 RFM analysis is a marketing analysis tool used to identify a company's or an organization's best customers by using three quantitative measures  which are Recency (R), Frequency (F), Monetary (M). RFM analysis scores customers on each of the three main factors. Generally, a score from 1 to 5 is given, with 5 being the highest.
 <br>
 
