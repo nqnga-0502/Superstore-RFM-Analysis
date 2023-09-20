@@ -12,6 +12,7 @@ There are three metrics used on RFM analysis:
 * **Monetary (M)** <br>
   Total or average of transaction value (e.g. total amount spent on transactions of a customer with a service / product).
 
+* Customer Cuslters
 | Segment | RFM Score |
 | ----------- | ----------- |
 | Champions | 555, 554, 544, 545, 454, 455, 445 |
